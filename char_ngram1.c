@@ -1,5 +1,5 @@
 #define _CRT_SECURE_NO_WARNINGS
-/* MSVC 컴파일러에서 fopen, strerror 같은 표준 C 함수 경고를 끄기 위한 설정입니다. */
+// MSVC 컴파일러에서 fopen, strerror 같은 표준 C 함수 경고를 끄기 위한 설정입니다. 
 
 #include <ctype.h>
 /* isprint 함수처럼 문자가 화면에 보이는 문자인지 확인하는 함수가 들어 있습니다. */
